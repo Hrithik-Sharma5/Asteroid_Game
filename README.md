@@ -1,5 +1,4 @@
 # Asteroid_Game
-Asteroids:
 
 - Player's health, movement and rotation speed can me modified through "Player" script that is attached on Player prefab present in game scene.
 
