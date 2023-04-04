@@ -56,6 +56,7 @@ AsteroidManager- Handles the Asteroid related functionalty like spawning asteroi
 UIManager- Handles the UI part of the game.
 
 CutsceneHandler- It will manage the cutscene part of the game.
+
 =============================================
 
 *If you think the collision of asteriods create too much bounce, then u can change the values in physics material or can remove the physics material from the asteroid prefab.
