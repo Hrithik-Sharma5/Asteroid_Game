@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2a4c77fb4b8744b72755ccc73991d, type: 3}
+  m_Name: SpecialWeaponData
+  m_EditorClassIdentifier: 
+  m_weaponsList:
+  - m_weaponIcon: {fileID: 21300000, guid: 829e1c91571d74f4fa39de2b6fc05a48, type: 3}
+    m_weaponType: 1
+    m_weaponTime: 10
+    m_weaponPrefab: {fileID: 4112483742893161702, guid: 55817356b36fe5c45b86c22385f8fff2, type: 3}
+    m_isBurstFireWeapon: 0
+    m_burstCount: 0
+    m_trajectoryAngle: 0
+    m_fireSpeed: 20
