@@ -60,8 +60,6 @@ CutsceneHandler- It will manage the cutscene part of the game.
 
 *If you think the collision of asteriods create too much bounce, then u can change the values in physics material or can remove the physics material from the asteroid prefab.
 
-*I didn't understand the part where the current weapon will also define the amount because i am assuming that the player have infinite ammo of base weapon and the special weapon are time based, so i dont know what to do with the quantity part. Thats why I didn't implement that part.
-
 
 
 
